@@ -1,0 +1,22 @@
+.App {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+
+}
+
+.App-header {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=900&t=st=1655953785~exp=1655954385~hmac=8ac26b2e2e1db84b233e0fa936c0290c6999cb56e36b8990bd4bcfd78d5c3935);
+  height: 1500px;
+}
